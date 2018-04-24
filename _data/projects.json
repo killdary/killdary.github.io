@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Cool project 1",
+		"name": "First Project Bike Regression",
 		"image": "placeholder.jpg",
 		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"date": "Nov 2017",
+		"tags": ["Udacity","UCI","python", "jupyter"]
 	},
 	{
 		"name": "Cool project 2",
