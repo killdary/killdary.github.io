@@ -1,9 +1,8 @@
-## HCZ Material theme
+## Página Pessoal 
+Esta página tem como objetivo não apenas registrar meus projetos pessoais, mas também compartilhar com outross métodos e macetes que vou descobrindo no dia a dia.
 
-This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
-
-### Demo
-* [https://codeasashu.github.io/hcz-jekyll-blog](https://codeasashu.github.io/hcz-jekyll-blog/)
+## Créditos
+A página foi desenvolvida em cima do template [HCZ Material theme](https://github.com/codeasashu/hcz-jekyll-blog)
 
 #### Feature
 
