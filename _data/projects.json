@@ -8,7 +8,7 @@
 	},
 	{
 		"name": "Classificador 1-NN na Iris Dataset, Distancia Euclidiana e Centroides",
-		"image": "placeholder.jpg",
+		"image": "download.png",
 		"url": "#",
 		"date": "Abril 2018",
 		"tags": ["UCI","python", "jupyter"]
