@@ -10,7 +10,7 @@
 		"name": "Image Classification",
 		"image": "bird.jpg",
 		"url": "#",
-		"date": "Dez 2017",
+		"date": "Dec 2017",
 		"tags": ["Udacity","CIFAR-10","python", "jupyter", "tensorflow"]
 	},
 	{
