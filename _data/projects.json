@@ -12,6 +12,13 @@
 		"url": "#",
 		"date": "Abril 2018",
 		"tags": ["UCI","python", "jupyter"]
+	},
+	{
+		"name": "LDA, QDA",
+		"image": "download.png",
+		"url": "#",
+		"date": "Abril 2018",
+		"tags": ["UCI","python", "jupyter"]
 	}
 
 ]
