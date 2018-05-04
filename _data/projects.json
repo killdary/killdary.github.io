@@ -7,7 +7,14 @@
 		"tags": ["Udacity","UCI","python", "jupyter"]
 	},
 	{
-		"name": "Classificador 1-NN na Iris Dataset, Distancia Euclidiana e Centroides",
+		"name": "Image Classification",
+		"image": "bird.jpg",
+		"url": "#",
+		"date": "Dez 2017",
+		"tags": ["Udacity","CIFAR-10","python", "jupyter", "tensorflow"]
+	},
+	{
+		"name": "Classificador 1-NN na Iris Dataset",
 		"image": "download.png",
 		"url": "#",
 		"date": "Apr 2018",
